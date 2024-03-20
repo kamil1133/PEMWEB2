@@ -5,7 +5,7 @@ include_once('menu.php');
 <head>
 
 <link href="https://cdn.jsdelivr.net/npm/simple-datatables@7.1.2/dist/style.min.css" rel="stylesheet" />
-<link href="css/styles.css" rel="stylesheet" />
+<link href="SB-Admin/css/styles.css" rel="stylesheet" />
 </head>
 <style>
     h1{
@@ -17,7 +17,7 @@ include_once('menu.php');
 <body>
 <main>
     <div class="container-fluid px-4">
-        <h1 class="mt-4">Dashboard-Admin</h1>
+        <h1 class="mt-4">Dashboard-Selamat datang,Fathi</h1>
 
         <h5><i>Selamat Datang di halaman Admin</i></h5>
     </div>
